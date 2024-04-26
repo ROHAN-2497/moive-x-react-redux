@@ -1,6 +1,10 @@
 import "./style.scss";
 const HeroBanner = () => {
-  return <div>HeroBanner</div>;
+  return (
+    <div>
+      <div className="wrapper"></div>
+    </div>
+  );
 };
 
 export default HeroBanner;
