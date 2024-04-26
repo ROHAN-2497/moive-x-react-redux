@@ -1,7 +1,7 @@
 import "./style.scss";
 const HeroBanner = () => {
   return (
-    <div>
+    <div className="heroBanner">
       <div className="wrapper"></div>
     </div>
   );
